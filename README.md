@@ -51,15 +51,3 @@ Este é um sistema bancário simples desenvolvido com C# e .NET, com funcionalid
     ```bash
     dotnet test
     ```
-
-## Como Contribuir
-
-1. Faça o fork do repositório.
-2. Crie uma branch para a sua feature (`git checkout -b feature/nome-da-feature`).
-3. Faça o commit das suas alterações (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Faça o push para a branch (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
